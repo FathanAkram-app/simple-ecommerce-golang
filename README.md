@@ -1,3 +1,3 @@
-# echo-gorm-boilerplate
+# EcommerceGolang
 
-golang echo boilerplate with authorization included
+A simple ecommerce app built with golang
